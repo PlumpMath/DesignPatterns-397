@@ -1,0 +1,8 @@
+﻿Adopter Pattern
+
+- When dependent class doesnt implements an interface, Adapter pattern simplifies by writting a wrapper
+ to isolate the class from its underlying implementation.
+- Adapter implements an interface which methods that calls adaptee methods.
+
+
+

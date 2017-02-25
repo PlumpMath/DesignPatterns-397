@@ -64,6 +64,7 @@ namespace StrategyPattern
             Console.WriteLine("Money deposited to your Account, no interest.");
         }
     }
+
     class OneTimeDeposit : IDeposit
     {
         public void DepositMoney()
