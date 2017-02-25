@@ -1,0 +1,10 @@
+﻿Observer Pattern
+
+- This pattern addresses the problem of notifying set of objects when there is a change takes place in another object.
+- Example, Publisheer/Subscriber pattern, tweets, notifications etc.
+
+Notes 
+1. Publisher is responsible to manage the subscribers and notify on a object change.
+2. Subscribers recieve the notification message and have its concrete implementation of handling the message.
+
+FAQs

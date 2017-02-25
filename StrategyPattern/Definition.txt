@@ -1,0 +1,6 @@
+﻿Strategy Pattern
+
+- This pattern addresses the scenario of performing an action by your object by choosing from available options.
+- Strategy pattern defines a family of algorithms, encapsulates each one of them and makes them interchangeable
+
+

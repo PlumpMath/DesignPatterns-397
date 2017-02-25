@@ -1,0 +1,9 @@
+﻿Decorator Pattern
+
+- This pattern addresses the problem of decorating an object with add ins dynamically.
+- Example, Adding toppings to a pizza, selection of different varients of a vehicle etc..
+
+Notes 
+1. Decorator and component exposes same interface.
+2. concrete decorators overrides Decorator class with their definitions.
+

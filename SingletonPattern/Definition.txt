@@ -1,0 +1,14 @@
+﻿Singleton Pattern
+
+- Use this pattern to enforce creation of only one instance of a given class.
+- Example, logger class
+
+Notes 
+1. Private constructor to restrict instatiation of class from outside.
+2. Define lock for thread safe.
+
+FAQs
+
+1. How It is different from making the class static ?
+Ans : Static class compromises object oriented principle, Inheritance. 
+This instance can be used as a parameter to other methods. A static class allows only static methods.
